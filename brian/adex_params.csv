@@ -1,0 +1,8 @@
+type,tau_m [ms],a [nS],tau_u [ms],b [pA],Vreset [mV]
+tonic,20,0,30,60,-55
+adapting,200,0,100,5,-55
+init. burst,5,0.5,100,7,-51
+bursting,5,-0.5,100,7,-46
+irregular,9.9,-0.5,100,7,-46
+transient,10,1,100,10,-60
+delayed,5,-1,100,10,-60
